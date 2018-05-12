@@ -1,0 +1,31 @@
+_repo: Peking-Dust_26162
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26162-h/images/cover.jpg
+creator:
+  author:
+    agent_name: La Motte, Ellen N. (Ellen Newbold)
+    aliases:
+    - Motte, Ellen N. la (Ellen Newbold)
+    - La Motte, Ellen Newbold
+    birthdate: 1873
+    deathdate: 1961
+    gutenberg_agent_id: '8965'
+    url: http://www.gutenberg.org/2009/agents/8965
+description: Letters written October and November, 1916.--Letters written February
+  and March, 1917.
+gutenberg_issued: '2008-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26162'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'World War, 1914-1918 -- China'
+- !lcsh 'China -- Social life and customs'
+title: Peking Dust
+url: http://www.gutenberg.org/ebooks/26162
